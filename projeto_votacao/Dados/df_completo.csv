@@ -1,0 +1,493 @@
+,Deputado,Partido,UF,Voto,Campo ideológico,Posição
+0,Alan Rick,DEM,AC,Sim,Conservador,Centro direita
+1,Arthur O. Maia,DEM,BA,Não,Conservador,Centro direita
+2,Elmar Nascimento,DEM,BA,Sim,Conservador,Centro direita
+3,Igor Kannário,DEM,BA,Sim,Conservador,Centro direita
+4,Leur Lomanto Jr,DEM,BA,Não,Conservador,Centro direita
+5,Paulo Azi,DEM,BA,Sim,Conservador,Centro direita
+6,Aníbal Gomes,DEM,CE,Sim,Conservador,Centro direita
+7,Luis Miranda,DEM,DF,Sim,Conservador,Centro direita
+8,Norma Ayub,DEM,ES,Sim,Conservador,Centro direita
+9,Dr Zacharias Calil,DEM,GO,Sim,Conservador,Centro direita
+10,José Mario Schrein,DEM,GO,Sim,Conservador,Centro direita
+11,Juscelino Filho,DEM,MA,Sim,Conservador,Centro direita
+12,Bilac Pinto,DEM,MG,Sim,Conservador,Centro direita
+13,Hélio Leite,DEM,PA,Sim,Conservador,Centro direita
+14,Olival Marques,DEM,PA,Sim,Conservador,Centro direita
+15,Efraim Filho,DEM,PB,Sim,Conservador,Centro direita
+16,Fernando Coelho,DEM,PE,Sim,Conservador,Centro direita
+17,Pedro Lupion,DEM,PR,Sim,Conservador,Centro direita
+18,Juninho do Pneu,DEM,RJ,INDENIFIDO,Conservador,Centro direita
+19,Marcos Soares,DEM,RJ,Sim,Conservador,Centro direita
+20,Rodrigo Maia,DEM,RJ,Sim,Conservador,Centro direita
+21,Sóstenes Cavalcante,DEM,RJ,Sim,Conservador,Centro direita
+22,Alexandre Leite,DEM,SP,Sim,Conservador,Centro direita
+23,David Soares,DEM,SP,Sim,Conservador,Centro direita
+24,Eli Corrêa Filho,DEM,SP,Sim,Conservador,Centro direita
+25,Geninho Zuliani,DEM,SP,Sim,Conservador,Centro direita
+26,Kim Kataguiri,DEM,SP,Não,Conservador,Centro direita
+27,Carlos Gaguim,DEM,TO,Sim,Conservador,Centro direita
+28,Prof Dorinha,DEM,TO,Sim,Conservador,Centro direita
+29,Dra.Vanda Milani,SD,AC,Sim,Trabalhista,Centro esquerda
+30,Bosco Saraiva,SD,AM,Sim,Trabalhista,Centro esquerda
+31,Genecias Noronha,SD,CE,Sim,Trabalhista,Centro esquerda
+32,Lucas Vergilio,SD,GO,INDENIFIDO,Trabalhista,Centro esquerda
+33,Zé Vitor,SD,MG,Sim,Trabalhista,Centro esquerda
+34,Dr. Leonardo,SD,MT,Sim,Trabalhista,Centro esquerda
+35,Augusto Coutinho,SD,PE,Sim,Trabalhista,Centro esquerda
+36,Marina Santos,SD,PI,Sim,Trabalhista,Centro esquerda
+37,Aureo Ribeiro,SD,RJ,Sim,Trabalhista,Centro esquerda
+38,Ottaci Nascimento,SD,RR,Sim,Trabalhista,Centro esquerda
+39,Gustinho Ribeiro,SD,SE,INDENIFIDO,Trabalhista,Centro esquerda
+40,Paulo Pereira,SD,SP,Sim,Trabalhista,Centro esquerda
+41,Eli Borges,SD,TO,Sim,Trabalhista,Centro esquerda
+42,Tiago Dimas,SD,TO,Sim,Trabalhista,Centro esquerda
+43,Flaviano Melo,MDB,AC,Sim,Conservador,Centro direita
+44,Jessica Sales,MDB,AC,Sim,Conservador,Centro direita
+45,Isnaldo Bulhões Jr,MDB,AL,Sim,Conservador,Centro direita
+46,Moses Rodrigues,MDB,CE,Não,Conservador,Centro direita
+47,Hildo Rocha,MDB,MA,Sim,Conservador,Centro direita
+48,João Marcelo S.,MDB,MA,INDENIFIDO,Conservador,Centro direita
+49,Fábio Ramalho,MDB,MG,Não,Conservador,Centro direita
+50,Hercílio Diniz,MDB,MG,Sim,Conservador,Centro direita
+51,Mauro Lopes,MDB,MG,Sim,Conservador,Centro direita
+52,Newton Cardoso Jr,MDB,MG,Sim,Conservador,Centro direita
+53,Juarez Costa,MDB,MT,Sim,Conservador,Centro direita
+54,Valtenir Pereira,MDB,MT,Sim,Conservador,Centro direita
+55,Elcione Barbalho,MDB,PA,Sim,Conservador,Centro direita
+56,José Priante,MDB,PA,INDENIFIDO,Conservador,Centro direita
+57,Raul Henry,MDB,PE,Sim,Conservador,Centro direita
+58,Marcos A. Sampaio,MDB,PI,Sim,Conservador,Centro direita
+59,Hermes Parcianello,MDB,PR,Sim,Conservador,Centro direita
+60,Sérgio Souza,MDB,PR,Sim,Conservador,Centro direita
+61,Daniela Waguinho,MDB,RJ,Sim,Conservador,Centro direita
+62,Gutemberg Reis,MDB,RJ,Sim,Conservador,Centro direita
+63,Walter Alves,MDB,RN,Sim,Conservador,Centro direita
+64,Lucio Mosquini,MDB,RO,Sim,Conservador,Centro direita
+65,Alceu Moreira,MDB,RS,Sim,Conservador,Centro direita
+66,Giovani Feltes,MDB,RS,Sim,Conservador,Centro direita
+67,Márcio Biolchi,MDB,RS,Sim,Conservador,Centro direita
+68,Osmar Terra,MDB,RS,Sim,Conservador,Centro direita
+69,Carlos Chiodini,MDB,SC,Sim,Conservador,Centro direita
+70,Celso Maldaner,MDB,SC,Sim,Conservador,Centro direita
+71,Rogério Peninha,MDB,SC,INDENIFIDO,Conservador,Centro direita
+72,Fabio Reis,MDB,SE,Sim,Conservador,Centro direita
+73,Baleira Rossi,MDB,SP,Sim,Conservador,Centro direita
+74,Herculano Passos,MDB,SP,Sim,Conservador,Centro direita
+75,Dulce Miranda,MDB,TO,INDENIFIDO,Conservador,Centro direita
+76,Jesus Sérgio,PDT,AC,Sim,Trabalhista,Centro esquerda
+77,Alex Santana,PDT,BA,Sim,Trabalhista,Centro esquerda
+78,Félix Mendonça Jr,PDT,BA,Sim,Trabalhista,Centro esquerda
+79,André Figueiredo,PDT,CE,Sim,Trabalhista,Centro esquerda
+80,Eduardo Bismarck,PDT,CE,Sim,Trabalhista,Centro esquerda
+81,Idilvan Alencar,PDT,CE,Não,Trabalhista,Centro esquerda
+82,Leônidas Cristino,PDT,CE,Sim,Trabalhista,Centro esquerda
+83,Totonho Lopes,PDT,CE,Sim,Trabalhista,Centro esquerda
+84,Flávia Morais,PDT,GO,Sim,Trabalhista,Centro esquerda
+85,Mário Heringer,PDT,MG,Sim,Trabalhista,Centro esquerda
+86,Sub-Tenente Gonzaga,PDT,MG,Não,Trabalhista,Centro esquerda
+87,Dagoberto Nogueira,PDT,MS,Sim,Trabalhista,Centro esquerda
+88,Damião Feliciano,PDT,PB,Sim,Trabalhista,Centro esquerda
+89,Túlio Gadêlha,PDT,PE,Não,Trabalhista,Centro esquerda
+90,Wolney Queiroz,PDT,PE,Sim,Trabalhista,Centro esquerda
+91,Flávio Nogueira,PDT,PI,Sim,Trabalhista,Centro esquerda
+92,Gustavo Fruet,PDT,PR,Não,Trabalhista,Centro esquerda
+93,Chico D´ Angelo,PDT,RJ,Sim,Trabalhista,Centro esquerda
+94,Paulo Ramos,PDT,RJ,Sim,Trabalhista,Centro esquerda
+95,Silvia Cristina ,PDT,RO,Sim,Trabalhista,Centro esquerda
+96,Afonso Motta,PDT,RS,INDENIFIDO,Trabalhista,Centro esquerda
+97,Marlon Santos,PDT,RS,Sim,Trabalhista,Centro esquerda
+98,Pompeo de Mattos,PDT,RS,Sim,Trabalhista,Centro esquerda
+99,Fábio Henrique,PDT,SE,Sim,Trabalhista,Centro esquerda
+100,Tabata Amaral,PDT,SP,Não,Trabalhista,Centro esquerda
+101,Leo de Brito,PT,AC,Sim,Socialista,Esquerda
+102,Paulão,PT,AL,Sim,Socialista,Esquerda
+103,José Ricardo,PT,AM,Sim,Socialista,Esquerda
+104,Afonso Florence,PT,BA,Não,Socialista,Esquerda
+105,Jorge Solla,PT,BA,Sim,Socialista,Esquerda
+106,Joseildo Ramis,PT,BA,Sim,Socialista,Esquerda
+107,Valmir Assunção,PT,BA,Sim,Socialista,Esquerda
+108,Waldenor Pereira,PT,BA,Sim,Socialista,Esquerda
+109,Zé Neto,PT,BA,Sim,Socialista,Esquerda
+110,José Airton,PT,CE,Sim,Socialista,Esquerda
+111,José Guimarães,PT,CE,Sim,Socialista,Esquerda
+112,Luizianne Lins,PT,CE,Sim,Socialista,Esquerda
+113,Erika Kokay,PT,DF,Sim,Socialista,Esquerda
+114,Helder Salomão,PT,ES,Sim,Socialista,Esquerda
+115,Rubens Otoni,PT,GO,Sim,Socialista,Esquerda
+116,Zé Carlos,PT,MA,Sim,Socialista,Esquerda
+117,Leonardo Monteiro,PT,MG,Sim,Socialista,Esquerda
+118,Odair Cunha,PT,MG,Sim,Socialista,Esquerda
+119,Padre João,PT,MG,Sim,Socialista,Esquerda
+120,Patrus Ananias,PT,MG,Sim,Socialista,Esquerda
+121,Paulo Guedes,PT,MG,Sim,Socialista,Esquerda
+122,Reginaldo Lopes,PT,MG,Sim,Socialista,Esquerda
+123,Rogério Correia,PT,MG,Sim,Socialista,Esquerda
+124,Vander Loubet,PT,MS,Sim,Socialista,Esquerda
+125,Prof Rosa Neide,PT,MT,Sim,Socialista,Esquerda
+126,Airton Faleiro,PT,PA,Sim,Socialista,Esquerda
+127,Beto Faro,PT,PA,Sim,Socialista,Esquerda
+128,Frei Anastácio,PT,PB,Sim,Socialista,Esquerda
+129,Carlos Veras,PT,PE,Sim,Socialista,Esquerda
+130,Marília Arraes,PT,PE,Sim,Socialista,Esquerda
+131,Merlong Solano,PT,PI,Sim,Socialista,Esquerda
+132,Rejane Dias,PT,PI,Sim,Socialista,Esquerda
+133,Enio Verri,PT,PR,Sim,Socialista,Esquerda
+134,Gleise Hoffmann,PT,PR,Sim,Socialista,Esquerda
+135,Zeca Dirceu,PT,PR,Sim,Socialista,Esquerda
+136,Natália Bonavides,PT,RN,Sim,Socialista,Esquerda
+137,Bohn Gass,PT,RS,Sim,Socialista,Esquerda
+138,Henrique Fontana,PT,RS,Sim,Socialista,Esquerda
+139,Marcon,PT,RS,Sim,Socialista,Esquerda
+140,Maria do Rosário,PT,RS,Sim,Socialista,Esquerda
+141,Paulo Pimenta,PT,RS,Sim,Socialista,Esquerda
+142,Pedro Uczai,PT,SC,Sim,Socialista,Esquerda
+143,João Daniel,PT,SE,Sim,Socialista,Esquerda
+144,Alencar S. Braga,PT,SP,Sim,Socialista,Esquerda
+145,Alexandre Padilha,PT,SP,Sim,Socialista,Esquerda
+146,Arlindo Chinaglia,PT,SP,Sim,Socialista,Esquerda
+147,Carlos Zarattini,PT,SP,Sim,Socialista,Esquerda
+148,Nilto Tatto,PT,SP,Sim,Socialista,Esquerda
+149,Paulo Texeira,PT,SP,Sim,Socialista,Esquerda
+150,Rui Falcão,PT,SP,Sim,Socialista,Esquerda
+151,Vincentinho,PT,SP,Sim,Socialista,Esquerda
+152,Célio Moura,PT,TO,Sim,Socialista,Esquerda
+153,Mara Rocha,PSDB,AC,Sim,Social democrata,Centro esquerda
+154,Pedro Vilela,PSDB,AL,Sim,Social democrata,Centro esquerda
+155,Tereza Nelma,PSDB,AL,Sim,Social democrata,Centro esquerda
+156,Luiz Carlos,PSDB,AP,Sim,Social democrata,Centro esquerda
+157,Adolfo Viana,PSDB,BA,Não,Social democrata,Centro esquerda
+158,Danilo Forte,PSDB,CE,Sim,Social democrata,Centro esquerda
+159,Célio Silveira,PSDB,GO,Sim,Social democrata,Centro esquerda
+160,Aécio Neves,PSDB,MG,Sim,Social democrata,Centro esquerda
+161,Domingos Sávio,PSDB,MG,Sim,Social democrata,Centro esquerda
+162,Eduardo Barbosa,PSDB,MG,Sim,Social democrata,Centro esquerda
+163,Paulo Abi-Ackel,PSDB,MG,Sim,Social democrata,Centro esquerda
+164,Rodrigo de Castro,PSDB,MG,Sim,Social democrata,Centro esquerda
+165,Bia Cavassa,PSDB,MS,INDENIFIDO,Social democrata,Centro esquerda
+166,Rose Modesto,PSDB,MS,Sim,Social democrata,Centro esquerda
+167,Celso Sabino,PSDB,PA,Sim,Social democrata,Centro esquerda
+168,Nilson Pinto,PSDB,PA,INDENIFIDO,Social democrata,Centro esquerda
+169,Edna Henrique,PSDB,PB,INDENIFIDO,Social democrata,Centro esquerda
+170,Rafafá,PSDB,PB,Sim,Social democrata,Centro esquerda
+171,Rossoni,PSDB,PR,Sim,Social democrata,Centro esquerda
+172,Otavio Leite,PSDB,RJ,Sim,Social democrata,Centro esquerda
+173,Mariana Carvalho,PSDB,RO,Sim,Social democrata,Centro esquerda
+174,Shéridan,PSDB,RR,INDENIFIDO,Social democrata,Centro esquerda
+175,Daniel Trzeciak,PSDB,RS,Não,Social democrata,Centro esquerda
+176,Lucas Redecker,PSDB,RS,Não,Social democrata,Centro esquerda
+177,Geovania de Sá,PSDB,SC,Sim,Social democrata,Centro esquerda
+178,Alexandre Frota,PSDB,SP,Sim,Social democrata,Centro esquerda
+179,Bruna Furlan,PSDB,SP,INDENIFIDO,Social democrata,Centro esquerda
+180,Carlos Sampaio,PSDB,SP,Não,Social democrata,Centro esquerda
+181,Eduardo Cury,PSDB,SP,Sim,Social democrata,Centro esquerda
+182,Samuel Moreira,PSDB,SP,Sim,Social democrata,Centro esquerda
+183,Vanderlei Macris,PSDB,SP,Sim,Social democrata,Centro esquerda
+184,Vitor Lippi,PSDB,SP,Sim,Social democrata,Centro esquerda
+185,Perpétua Almeida,PCdoB,AC,Sim,Socialista,Esquerda
+186,Prof Marcivania,PCdoB,AP,Sim,Socialista,Esquerda
+187,Alice Portugal,PCdoB,BA,Sim,Socialista,Esquerda
+188,Daniel Almeida,PCdoB,BA,Sim,Socialista,Esquerda
+189,Renildo Calheiros,PCdoB,PE,Sim,Socialista,Esquerda
+190,Jandira Feghali,PCdoB,RJ,Sim,Socialista,Esquerda
+191,Orlando Silva,PCdoB,SP,Sim,Socialista,Esquerda
+192,Marx Beltrão,PSD,AL,Sim,Social democrata,Centro esquerda
+193,Sidney Leite,PSD,AM,Não,Social democrata,Centro esquerda
+194,Antonio Brito,PSD,BA,Sim,Social democrata,Centro esquerda
+195,Charles Fernandes,PSD,BA,Sim,Social democrata,Centro esquerda
+196,José Nunes,PSD,BA,Sim,Social democrata,Centro esquerda
+197,Otto Alencar,PSD,BA,Sim,Social democrata,Centro esquerda
+198,Paulo Magalhães,PSD,BA,Sim,Social democrata,Centro esquerda
+199,Sérgio Brito,PSD,BA,Não,Social democrata,Centro esquerda
+200,Domingos Neto,PSD,CE,Sim,Social democrata,Centro esquerda
+201,Neucimar Fraga,PSD,ES,Sim,Social democrata,Centro esquerda
+202,Francisco Jr.,PSD,GO,Sim,Social democrata,Centro esquerda
+203,Edilazio Junior,PSD,MA,INDENIFIDO,Social democrata,Centro esquerda
+204,Diego Andrade,PSD,MG,INDENIFIDO,Social democrata,Centro esquerda
+205,Misael Varella,PSD,MG,Sim,Social democrata,Centro esquerda
+206,Stefano Aguiar,PSD,MG,Sim,Social democrata,Centro esquerda
+207,Fabio Trad,PSD,MS,Sim,Social democrata,Centro esquerda
+208,Deleg. Éder Mauro,PSD,PA,Sim,Social democrata,Centro esquerda
+209,Joaquim Passarinho,PSD,PA,Não,Social democrata,Centro esquerda
+210,Júnior Ferrari,PSD,PA,Não,Social democrata,Centro esquerda
+211,André de Paula,PSD,PE,Sim,Social democrata,Centro esquerda
+212,Júlio Cesar ,PSD,PI,Sim,Social democrata,Centro esquerda
+213,Sargento Fahur,PSD,PR,Não,Social democrata,Centro esquerda
+214,Stephanes Junior,PSD,PR,Sim,Social democrata,Centro esquerda
+215,Vermelho,PSD,PR,Sim,Social democrata,Centro esquerda
+216,Flordelis,PSD,RJ,Sim,Social democrata,Centro esquerda
+217,Hugo Leal,PSD,RJ,Sim,Social democrata,Centro esquerda
+218,Pedro Augusto,PSD,RJ,Sim,Social democrata,Centro esquerda
+219,Expedito Netto,PSD,RO,Sim,Social democrata,Centro esquerda
+220,Haroldo Cathedral,PSD,RR,Sim,Social democrata,Centro esquerda
+221,PauloV. Caleffi,PSD,RS,Sim,Social democrata,Centro esquerda
+222,Darci de Matos,PSD,SC,Sim,Social democrata,Centro esquerda
+223,Ricardo Guidi,PSD,SC,INDENIFIDO,Social democrata,Centro esquerda
+224,Fábio Mitidieri,PSD,SE,INDENIFIDO,Social democrata,Centro esquerda
+225,Cezinha Madureira,PSD,SP,Sim,Social democrata,Centro esquerda
+226,Marco Bertaiolli,PSD,SP,Sim,Social democrata,Centro esquerda
+227,Nivaldo Albuquerque,PTB,AL,Sim,Trabalhista,Centro esquerda
+228,Pedro A. Bezerra,PTB,CE,Sim,Trabalhista,Centro esquerda
+229,Pedro Lucas Fernan,PTB,MA,Sim,Trabalhista,Centro esquerda
+230,Emanuel Pinheiro,PTB,MT,Sim,Trabalhista,Centro esquerda
+231,Eduardo Costa,PTB,PA,Sim,Trabalhista,Centro esquerda
+232,Wilson Santiago,PTB,PB,Sim,Trabalhista,Centro esquerda
+233,Luisa Canziani,PTB,PR,Sim,Trabalhista,Centro esquerda
+234,Marcelo Moraes,PTB,RS,Sim,Trabalhista,Centro esquerda
+235,Maurício Dziedrick,PTB,RS,Sim,Trabalhista,Centro esquerda
+236,Sergio Toledo,PL,AL,Sim,Liberal,Direita
+237,Marcelo Ramos,PL,AM,Sim,Liberal,Direita
+238,Vinicius Gurgel,PL,AP,Sim,Liberal,Direita
+239,Abílio Santana,PL,BA,Sim,Liberal,Direita
+240,João C. Bacelar,PL,BA,Sim,Liberal,Direita
+241,José Rocha,PL,BA,Sim,Liberal,Direita
+242,Raimundo Costa,PL,BA,Sim,Liberal,Direita
+243,Dr. Jaziel,PL,CE,Sim,Liberal,Direita
+244,Júnior Mano,PL,CE,Não,Liberal,Direita
+245,Laerte Bessa,PL,DF,Sim,Liberal,Direita
+246,Magda Mofatto,PL,GO,Sim,Liberal,Direita
+247,JoSimar Maranhãozinho,PL,MA,INDENIFIDO,Liberal,Direita
+248,Junior Lourenço,PL,MA,Sim,Liberal,Direita
+249,Pastor Gil,PL,MA,Sim,Liberal,Direita
+250,Aelton Freitas,PL,MG,Sim,Liberal,Direita
+251,Lincoln Portela,PL,MG,Sim,Liberal,Direita
+252,Beto Pereira,PL,MS,Sim,Liberal,Direita
+253,Cristiano Vale,PL,PA,Sim,Liberal,Direita
+254,Wellington,PL,PB,Sim,Liberal,Direita
+255,Fernando Rodolfo,PL,PE,Sim,Liberal,Direita
+256,Cap. Fábio Abreu,PL,PI,Sim,Liberal,Direita
+257,Christiane Yared,PL,PR,Sim,Liberal,Direita
+258,Giacobo,PL,PR,Sim,Liberal,Direita
+259,Luiz Nishimori,PL,PR,Sim,Liberal,Direita
+260,Altineu Côrtes,PL,RJ,Sim,Liberal,Direita
+261,Gelson Azevedo,PL,RJ,Sim,Liberal,Direita
+262,Luiz Antônio Corrêa,PL,RJ,Sim,Liberal,Direita
+263,Soraya Santos,PL,RJ,Sim,Liberal,Direita
+264,João Maia,PL,RN,Sim,Liberal,Direita
+265,Edio Lopes,PL,RR,Sim,Liberal,Direita
+266,Giovani Cherini,PL,RS,Sim,Liberal,Direita
+267,Bosco Costa,PL,SE,Sim,Liberal,Direita
+268,Valdevan Noventa,PL,SE,Sim,Liberal,Direita
+269,Capitão Augusto ,PL,SP,Sim,Liberal,Direita
+270,Luiz Carlos Motta,PL,SP,Sim,Liberal,Direita
+271,Marcio Alvino,PL,SP,Sim,Liberal,Direita
+272,Miguel Lombardi,PL,SP,Sim,Liberal,Direita
+273,Paulo Freire Costa,PL,SP,Sim,Liberal,Direita
+274,Policial Sastre,PL,SP,Sim,Liberal,Direita
+275,Tiririca,PL,SP,Sim,Liberal,Direita
+276,Vincentinho Junior,PL,TO,Sim,Liberal,Direita
+277,Severino Pessoa,REPUBLICANOS,AL,Sim,Cristão,Direita
+278,Cap. Alberto Neto,REPUBLICANOS,AM,Sim,Cristão,Direita
+279,Silas Câmara,REPUBLICANOS,AM,Sim,Cristão,Direita
+280,Aline Gurgel,REPUBLICANOS,AP,Sim,Cristão,Direita
+281,Márcio Marinho,REPUBLICANOS,BA,Sim,Cristão,Direita
+282,Tia Eron,REPUBLICANOS,BA,Sim,Cristão,Direita
+283,Julio Cesar Ribeiro,REPUBLICANOS,DF,Sim,Cristão,Direita
+284,Amaro Neto,REPUBLICANOS,ES,Sim,Cristão,Direita
+285,João Campos,REPUBLICANOS,GO,Sim,Cristão,Direita
+286,Cleber Verde,REPUBLICANOS,MA,Sim,Cristão,Direita
+287,Dr. Gonçalo,REPUBLICANOS,MA,Sim,Cristão,Direita
+288,Gil Cutrim,REPUBLICANOS,MA,,Cristão,Direita
+289,Gilberto Abramo,REPUBLICANOS,MG,Sim,Cristão,Direita
+290,Lafayatte Andrada,REPUBLICANOS,MG,Sim,Cristão,Direita
+291,Vavá Martins,REPUBLICANOS,PA,Sim,Cristão,Direita
+292,Hugo Motta,REPUBLICANOS,PB,Sim,Cristão,Direita
+293,Ossesio Silva,REPUBLICANOS,PE,Sim,Cristão,Direita
+294,Silvio Costa Filho,REPUBLICANOS,PE,Sim,Cristão,Direita
+295,Aroldo Martins,REPUBLICANOS,PR,Sim,Cristão,Direita
+296,Luizão Goulart ,REPUBLICANOS,PR,Sim,Cristão,Direita
+297,Jorge Braz,REPUBLICANOS,RJ,Sim,Cristão,Direita
+298,Rosangela Gomes,REPUBLICANOS,RJ,Sim,Cristão,Direita
+299,Benes Leocádio,REPUBLICANOS,RN,Sim,Cristão,Direita
+300,Jhonatan de Jesus,REPUBLICANOS,RR,Sim,Cristão,Direita
+301,Carlos Gomes,REPUBLICANOS,RS,Sim,Cristão,Direita
+302,Hélio Costa,REPUBLICANOS,SC,Sim,Cristão,Direita
+303,Celso Russomanno,REPUBLICANOS,SP,Sim,Cristão,Direita
+304,Marcos Pereira,REPUBLICANOS,SP,Sim,Cristão,Direita
+305,Maria Rosas,REPUBLICANOS,SP,Sim,Cristão,Direita
+306,Milton Vieira,REPUBLICANOS,SP,INDENIFIDO,Cristão,Direita
+307,Pr Marco Feliciano,REPUBLICANOS,SP,Sim,Cristão,Direita
+308,Roberto Alves,REPUBLICANOS,SP,Sim,Cristão,Direita
+309,Vinicius Carvalho,REPUBLICANOS,SP,Sim,Cristão,Direita
+310,Átila Lins,PP,AM,Sim,Conservador,Centro direita
+311,André Abdon,PP,AP,Não,Conservador,Centro direita
+312,Cacá Leão,PP,BA,Sim,Conservador,Centro direita
+313,Claudio Cajado,PP,BA,Não,Conservador,Centro direita
+314,Mário Negromonte Jr,PP,BA,Sim,Conservador,Centro direita
+315,Ronaldo Carletto,PP,BA,Sim,Conservador,Centro direita
+316,AJ Albuquerque,PP,CE,Sim,Conservador,Centro direita
+317,Celina Leão,PP,DF,Sim,Conservador,Centro direita
+318,Evair De Melo,PP,ES,Sim,Conservador,Centro direita
+319,Adrino do Baldy,PP,GO,Sim,Conservador,Centro direita
+320,Professor Alcides,PP,GO,Sim,Conservador,Centro direita
+321,André Fufuca,PP,MA,Sim,Conservador,Centro direita
+322,Dimas Fabiano,PP,MG,Sim,Conservador,Centro direita
+323,Franco Cartafina,PP,MG,Sim,Conservador,Centro direita
+324,Marcelo Aro,PP,MG,Sim,Conservador,Centro direita
+325,Pinheirinho,PP,MG,Sim,Conservador,Centro direita
+326,Neri Geller,PP,MT,Sim,Conservador,Centro direita
+327,Aguinaldo Ribeiro,PP,PB,Sim,Conservador,Centro direita
+328,Eduardo da Fonte,PP,PE,Sim,Conservador,Centro direita
+329,Fernando Monteiro,PP,PE,Sim,Conservador,Centro direita
+330,Átila Lira,PP,PI,Sim,Conservador,Centro direita
+331,Iracema Portella,PP,PI,Sim,Conservador,Centro direita
+332,Margarete Coelho,PP,PI,Sim,Conservador,Centro direita
+333,Ricardo Barros,PP,PR,Sim,Conservador,Centro direita
+334,Christino Aureo,PP,RJ,Sim,Conservador,Centro direita
+335,Dr. Luiz Antonio Jr,PP,RJ,Sim,Conservador,Centro direita
+336,Julio Lopes,PP,RJ,Sim,Conservador,Centro direita
+337,Beto Rosado,PP,RN,Sim,Conservador,Centro direita
+338,Jaqueline Cassol,PP,RO,Sim,Conservador,Centro direita
+339,Hiran Gonçalves,PP,RR,Sim,Conservador,Centro direita
+340,Afonso Hamm,PP,RS,Sim,Conservador,Centro direita
+341,Covatti Filho,PP,RS,Sim,Conservador,Centro direita
+342,Jerônimo Goergen,PP,RS,Sim,Conservador,Centro direita
+343,Pedro Westphalen,PP,RS,Sim,Conservador,Centro direita
+344,Angela Amin,PP,SC,Sim,Conservador,Centro direita
+345,Laercio Oliveira,PP,SE,Sim,Conservador,Centro direita
+346,Fausto Pinatp,PP,SP,Sim,Conservador,Centro direita
+347,Guilherme Derrite,PP,SP,Não,Conservador,Centro direita
+348,Guilherme Mussi,PP,SP,Sim,Conservador,Centro direita
+349,Ricardo Izar,PP,SP,Sim,Conservador,Centro direita
+350,Delegado Pablo,PSL,AM,Sim,Conservador,Centro direita
+351,Professora Dayane,PSL,BA,Não,Conservador,Centro direita
+352,Heitor Freire,PSL,CE,Não,Conservador,Centro direita
+353,Bia Kicis,PSL,DF,Sim,Conservador,Centro direita
+354,Dra. Soraya Manato,PSL,ES,Sim,Conservador,Centro direita
+355,Delegado Waldir,PSL,GO,Não,Conservador,Centro direita
+356,Vitor Hugo,PSL,GO,Sim,Conservador,Centro direita
+357,Alê Silva,PSL,MG,Não,Conservador,Centro direita
+358,Charlles Evangelista,PSL,MG,Sim,Conservador,Centro direita
+359,Delegado Marcelo,PSL,MG,Sim,Conservador,Centro direita
+360,Junior Amaral,PSL,MG,Não,Conservador,Centro direita
+361,Léo Motta,PSL,MG,Sim,Conservador,Centro direita
+362,Marcelo Álvaro,PSL,MG,Sim,Conservador,Centro direita
+363,Dr.Luiz Ovando,PSL,MS,Não,Conservador,Centro direita
+364,Loester Trutis,PSL,MS,Sim,Conservador,Centro direita
+365,Nelson Barbudo,PSL,MT,Sim,Conservador,Centro direita
+366,Julian Lemos,PSL,PB,Sim,Conservador,Centro direita
+367,Luciano Bivar,PSL,PE,INDENIFIDO,Conservador,Centro direita
+368,Aline Sleutjes,PSL,PR,Sim,Conservador,Centro direita
+369,Felipe Francischini,PSL,PR,Sim,Conservador,Centro direita
+370,Filipe Barros,PSL,PR,Sim,Conservador,Centro direita
+371,Carlos Jordy,PSL,RJ,Sim,Conservador,Centro direita
+372,Chris Tonietto,PSL,RJ,Sim,Conservador,Centro direita
+373,Daniel Silveira,PSL,RJ,Sim,Conservador,Centro direita
+374,Del Antônio Furtado,PSL,RJ,INDENIFIDO,Conservador,Centro direita
+375,Felício Laterça,PSL,RJ,Sim,Conservador,Centro direita
+376,Gurgel ,PSL,RJ,Sim,Conservador,Centro direita
+377,Helio Lopes,PSL,RJ,Sim,Conservador,Centro direita
+378,Lourival Gomes,PSL,RJ,Sim,Conservador,Centro direita
+379,Luiz Lima,PSL,RJ,Sim,Conservador,Centro direita
+380,Major Fabiana,PSL,RJ,Sim,Conservador,Centro direita
+381,Márcio Labre,PSL,RJ,Sim,Conservador,Centro direita
+382,Professor Joziel,PSL,RJ,Sim,Conservador,Centro direita
+383,General Girão,PSL,RN,Sim,Conservador,Centro direita
+384,Coronel Chrisóstom,PSL,RO,Sim,Conservador,Centro direita
+385,Nicoletti,PSL,RR,Sim,Conservador,Centro direita
+386,Bibo Nunes,PSL,RS,Sim,Conservador,Centro direita
+387,Marcelo Brum,PSL,RS,Sim,Conservador,Centro direita
+388,Nereu Crispim,PSL,RS,Sim,Conservador,Centro direita
+389,Sanderson,PSL,RS,Sim,Conservador,Centro direita
+390,Caroline de Toni,PSL,SC,Sim,Conservador,Centro direita
+391,Coronel Armando,PSL,SC,Sim,Conservador,Centro direita
+392,Daniel Freitas,PSL,SC,Sim,Conservador,Centro direita
+393,Fabio Schiochet,PSL,SC,Sim,Conservador,Centro direita
+394,Abou Anni ,PSL,SP,Sim,Conservador,Centro direita
+395,Bozzella,PSL,SP,Não,Conservador,Centro direita
+396,Carla Zambelli,PSL,SP,Sim,Conservador,Centro direita
+397,Coronel Tadeu,PSL,SP,Sim,Conservador,Centro direita
+398,Eduardo Bolsonaro,PSL,SP,Sim,Conservador,Centro direita
+399,General Peternelli,PSL,SP,Sim,Conservador,Centro direita
+400,Guiga Peixoto,PSL,SP,Sim,Conservador,Centro direita
+401,Joise Hasselmann,PSL,SP,Não,Conservador,Centro direita
+402,Luiz P. O. Bragança,PSL,SP,Não,Conservador,Centro direita
+403,Acácio Favacho,PROS,AP,Sim,Conservador,Centro direita
+404,Uldurico Junior,PROS,BA,Sim,Conservador,Centro direita
+405,Capitão Wagner,PROS,CE,Não,Conservador,Centro direita
+406,Valdon Oliveira,PROS,CE,Sim,Conservador,Centro direita
+407,Gastão Vieira,PROS,MA,Sim,Conservador,Centro direita
+408,Eros Biondini,PROS,MG,Sim,Conservador,Centro direita
+409,Weliton Prado,PROS,MG,Sim,Conservador,Centro direita
+410,Boca Aberta,PROS,PR,Sim,Conservador,Centro direita
+411,Toninho Wandscheer,PROS,PR,INDENIFIDO,Conservador,Centro direita
+412,Clarissa Garotinho,PROS,RJ,Sim,Conservador,Centro direita
+413,Carla Dickson,PROS,RN,Sim,Conservador,Centro direita
+414,Leda Sadala,AVANTE,AP,Sim,Trabalhista,Centro esquerda
+415,Pastor Isidório,AVANTE,BA,Sim,Trabalhista,Centro esquerda
+416,Tito,AVANTE,BA,Não,Trabalhista,Centro esquerda
+417,André Janones,AVANTE,MG,Não,Trabalhista,Centro esquerda
+418,Greyce Elias,AVANTE,MG,Sim,Trabalhista,Centro esquerda
+419,Luis Tibé,AVANTE,MG,Sim,Trabalhista,Centro esquerda
+420,Sebastião Oliveira,AVANTE,PE,Sim,Trabalhista,Centro esquerda
+421,Chiquinho Brazão,AVANTE,RJ,Sim,Trabalhista,Centro esquerda
+422,Camilo Capiberibe,PSB,AP,Sim,Socialista,Esquerda
+423,Lídice da Mata,PSB,BA,Sim,Socialista,Esquerda
+424,Marcelo Nilo,PSB,BA,Não,Socialista,Esquerda
+425,Odorico Monteiro,PSB,CE,Sim,Socialista,Esquerda
+426,Felipe Rigoni,PSB,ES,Não,Socialista,Esquerda
+427,Ted Conti,PSB,ES,Sim,Socialista,Esquerda
+428,Elias Vaz,PSB,GO,Não,Socialista,Esquerda
+429,Bira do Pindaré,PSB,MA,Não,Socialista,Esquerda
+430,Emidinho Madeira,PSB,MG,Sim,Socialista,Esquerda
+431,Júlio Delgado,PSB,MG,Não,Socialista,Esquerda
+432,Vilson da Fetaemg,PSB,MG,Sim,Socialista,Esquerda
+433,Cássio Andrade,PSB,PA,Sim,Socialista,Esquerda
+434,Gervásio Maia,PSB,PB,Não,Socialista,Esquerda
+435,Danilo Cabral,PSB,PE,Sim,Socialista,Esquerda
+436,Felipe Carreras,PSB,PE,Sim,Socialista,Esquerda
+437,Gonzaga PATRIOTA,PSB,PE,Sim,Socialista,Esquerda
+438,Milton Coelho,PSB,PE,Sim,Socialista,Esquerda
+439,Tadeu Alencar,PSB,PE,Não,Socialista,Esquerda
+440,Aliel Machado,PSB,PR,INDENIFIDO,Socialista,Esquerda
+441,Luciano Ducci,PSB,PR,Sim,Socialista,Esquerda
+442,Alessandro Molon,PSB,RJ,Não,Socialista,Esquerda
+443,Rafael Motta,PSB,RN,INDENIFIDO,Socialista,Esquerda
+444,Mauro Nazif,PSB,RO,Não,Socialista,Esquerda
+445,Heitor Schuch,PSB,RS,Sim,Socialista,Esquerda
+446,Liziane Bayer,PSB,RS,Sim,Socialista,Esquerda
+447,Rodrigo Coelho,PSB,SC,INDENIFIDO,Socialista,Esquerda
+448,Jefferson Campos,PSB,SP,Sim,Socialista,Esquerda
+449,Ricardo Silva,PSB,SP,Sim,Socialista,Esquerda
+450,Rodrigo Agostinhi,PSB,SP,Não,Socialista,Esquerda
+451,Rosana Valle,PSB,SP,Sim,Socialista,Esquerda
+452,Célio Studart,PV,CE,Não,Ambientalista,Centro esquerda
+453,Israel Batista,PV,DF,Sim,Ambientalista,Centro esquerda
+454,Leandre,PV,PR,Sim,Ambientalista,Centro esquerda
+455,Enrico Misasi,PV,SP,Sim,Ambientalista,Centro esquerda
+456,Paula Belmonte,CIDADANIA,DF,Sim,Socialista,Esquerda
+457,Da Vitória,CIDADANIA,ES,Sim,Socialista,Esquerda
+458,Daniel Coelho,CIDADANIA,PE,Sim,Socialista,Esquerda
+459,Rubens Bueno,CIDADANIA,PR,Sim,Socialista,Esquerda
+460,Carmen Zanotto,CIDADANIA,SC,Sim,Socialista,Esquerda
+461,Alex Manente,CIDADANIA,SP,Sim,Socialista,Esquerda
+462,Arnaldo Jardim,CIDADANIA,SP,Sim,Socialista,Esquerda
+463,Laurite,PSC,ES,Sim,Cristão,Direita
+464,Glaustin da Fokus,PSC,GO,Sim,Cristão,Direita
+465,Aluisio Mendes,PSC,MA,Sim,Cristão,Direita
+466,Euclydes Petterson,PSC,MG,Sim,Cristão,Direita
+467,Leonardo Gadelha,PSC,PB,INDENIFIDO,Cristão,Direita
+468,André Ferreira,PSC,PE,Sim,Cristão,Direita
+469,Paulo Martins,PSC,PR,Não,Cristão,Direita
+470,Otoni de Paula,PSC,RJ,Não,Cristão,Direita
+471,Ricardo da Karol,PSC,RJ,Sim,Cristão,Direita
+472,Gilberto Nascimento,PSC,SP,Sim,Cristão,Direita
+473,Osires Damaso,PSC,TO,Sim,Cristão,Direita
+474,Áurea Carolina,PSOL,MG,Não,Socialista,Esquerda
+475,Vivi Reis,PSOL,PA,Não,Socialista,Esquerda
+476,David Miranda,PSOL,RJ,Não,Socialista,Esquerda
+477,Glauber Braga,PSOL,RJ,Não,Socialista,Esquerda
+478,Marcelo Freixo,PSOL,RJ,Sim,Socialista,Esquerda
+479,Talíria Petrone,PSOL,RJ,Não,Socialista,Esquerda
+480,Fernando Melchionna,PSOL,RS,Não,Socialista,Esquerda
+481,Ivan Valente,PSOL,SP,Não,Socialista,Esquerda
+482,Luiza Erundina,PSOL,SP,Não,Socialista,Esquerda
+483,Sâmia Bomfim,PSOL,SP,Não,Socialista,Esquerda
+484,Lucas Gonzalez,NOVO,MG,Não,Liberal,Direita
+485,Tiago Mitraud,NOVO,MG,Não,Liberal,Direita
+486,Paulo Ganime,NOVO,RJ,Não,Liberal,Direita
+487,Marcel Vant Hattem,NOVO,RS,Não,Liberal,Direita
+488,Gilson Marques,NOVO,SC,Não,Liberal,Direita
+489,Adriana Ventura,NOVO,SP,Não,Liberal,Direita
+490,Alexis Fonteyne,NOVO,SP,Não,Liberal,Direita
+491,Vinicius Poit,NOVO,SP,Não,Liberal,Direita

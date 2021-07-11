@@ -1,0 +1,12 @@
+url votação dos deputados:
+https://www.gazetadopovo.com.br/republica/aprovada-nova-lei-de-improbidade-como-cada-deputado-votou/
+
+url de cada partido e sua ideologia:
+https://radames.manosso.nom.br/palavras/politica/qual-e-a-ideologia-de-cada-partido-brasileiro/
+
+url da câmara sobre a lei da improbilidade:
+https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2184458
+
+url do geojson do Brasil:
+https://raw.githubusercontent.com/luizpedone/municipal-brazilian-geodata/master/data/Brasil.json
+
