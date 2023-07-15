@@ -8,6 +8,16 @@ import matplotlib.pyplot as plt
 
 st.set_page_config("Dashboard votação lei da improbidade")
 
+st.markdown(
+    """
+    <style>
+    .reportview-container .main {
+        max-width: 100%;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
 with st.container():
     st.title("Dashboard votação lei da improbidade")
 
@@ -55,15 +65,6 @@ def create_map():
 
     return m
 
-
-with st.container():
-    st.write('---')
-    
-    m = create_map()
-    
-    st.subheader('Proporção de votos sim por estado')
-    st_data = st_folium(m, width=700, height=450)
-
 def count_plot(df, column):
   fig = plt.figure(figsize=(12,8))
   sns.countplot(x=column, data=df, palette='flare', hue='Voto')
@@ -80,16 +81,29 @@ def count_plot(df, column):
 
   st.pyplot(fig)
 
+
+col1, col2 = st.columns(2)
+
+
 with st.container():
-    st.write('---')
+    m = create_map()
+        
+    st.subheader('Proporção de votos sim por estado')
+    st_data = st_folium(m, width=700, height=450)
+
+
+
+with st.sidebar:
+    df = get_data()
+    select_box_axisx = st.selectbox('Selecione a variavel do eixo x', df.columns[1:], index=0)
+
+with st.container():
 
     st.subheader('Plotagem de um countplot')
-
-    df = get_data()
-
-    select_box_axisx = st.selectbox('Selecione a variavel do eixo x', df.columns[1:], index=0)
     count_plot(df, select_box_axisx)
-    
-    st.write('Primeiras 5 linhas do DataFrame')
-    st.write(df.head())
+
+with st.container():
+     st.write('Primeiras 5 linhas do DataFrame')
+     st.write(df.head())
+
 
